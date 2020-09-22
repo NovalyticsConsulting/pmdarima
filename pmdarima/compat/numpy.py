@@ -14,4 +14,4 @@
 import numpy as np
 
 # this is going to be the data-type used across pmdarima
-DTYPE = np.float64
+DTYPE = np.float16
